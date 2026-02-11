@@ -1,0 +1,16 @@
+# Python dependencies for CPS Simulation
+
+# Core scientific computing
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+
+# Data handling and visualization
+pandas>=2.0.0
+seaborn>=0.12.0
+
+# Optional: For advanced visualizations
+plotly>=5.14.0
+
+# Optional: For report generation
+reportlab>=4.0.0
